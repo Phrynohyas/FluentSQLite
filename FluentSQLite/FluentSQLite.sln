@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentSQLite", "FluentSQLite\FluentSQLite.csproj", "{150EEA09-3567-4EA6-92B2-10075D4B969A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentSQLite.Tests", "FluentSQLite.Tests\FluentSQLite.Tests.csproj", "{80185E5E-6CCC-4F7E-A1C3-7D2D47B51497}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentSQLite.Tests", "FluentSQLite.Tests\FluentSQLite.Tests.csproj", "{26F7B76C-66E3-40B4-BD2E-BC092CAED4B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +17,9 @@ Global
 		{150EEA09-3567-4EA6-92B2-10075D4B969A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{150EEA09-3567-4EA6-92B2-10075D4B969A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{150EEA09-3567-4EA6-92B2-10075D4B969A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{80185E5E-6CCC-4F7E-A1C3-7D2D47B51497}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{80185E5E-6CCC-4F7E-A1C3-7D2D47B51497}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{80185E5E-6CCC-4F7E-A1C3-7D2D47B51497}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{80185E5E-6CCC-4F7E-A1C3-7D2D47B51497}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
+		{26F7B76C-66E3-40B4-BD2E-BC092CAED4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F7B76C-66E3-40B4-BD2E-BC092CAED4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F7B76C-66E3-40B4-BD2E-BC092CAED4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F7B76C-66E3-40B4-BD2E-BC092CAED4B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
