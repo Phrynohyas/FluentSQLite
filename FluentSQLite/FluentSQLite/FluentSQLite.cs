@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 // Author:
 //  Anton Kasyanov <anton.v.kasyanov@gmail.com>
 //
@@ -353,6 +353,8 @@ namespace FluentSQLite
 			var commandText = this.GenerateDataInsertSqlExpression(parameterNames);
 
 			this.ExecuteInsertDataCommand(commandText, parameterNames);
+
+			this._rows.Clear();
 
 			return this._ownerContext;
 		}
